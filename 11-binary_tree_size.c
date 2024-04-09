@@ -1,4 +1,3 @@
-11-binary_tree_size.c
 #include "binary_trees.h"
 
 /**
