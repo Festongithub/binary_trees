@@ -1,4 +1,3 @@
-120-binary_tree_is_avl.c
 #include "binary_trees.h"
 #include "limits.h"
 
